@@ -1,5 +1,5 @@
 # Search_Algorithms  
-This project uses different kinds of search algorithms to find the shortest path from a source junction to a target junction on a map of Israel.  
+This project uses different kinds of search algorithms to find the shortest path from a source node to a target node on a map of Israel.  
   
   
 **Files:**  
@@ -14,4 +14,3 @@ python stats.py: Displays statistical data regarding the number of intersections
 python main.py ucs source target: Runs the uniform cost search algorithm to find the shortest path from the source junction to the target junction.  
 python main.py astar source target: Runs the A* search algorithm to find the shortest path from the source junction to the target junction.  
 python main.py idastar source target: Runs the iterative deepening A* search algorithm to find the shortest path from the source junction to the target junction.  
-Note that source and target refer to the junction number in the database.

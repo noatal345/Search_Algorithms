@@ -1,5 +1,5 @@
 # Search_Algorithms  
-This repository contains the source code for a project that utilizes search algorithms to find the shortest path from a source junction to a target junction on a map of Israel.  
+This project uses different kinds of search algorithms to find the shortest path from a source junction to a target junction on a map of Israel.  
   
   
 **Files:**  
